@@ -1,10 +1,3 @@
 # Hello-World
-this is my first try to join GitHub
-  
-  
-  
-  sfda
-  
-  asdfsadf
-  asdf
-  asdff
+
+when you feel tired ,try to type something ,mark down this feeling, read .
